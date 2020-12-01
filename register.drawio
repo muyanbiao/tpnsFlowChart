@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T12:10:22.448Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="z72jaB1POokhVd-Vtuuj" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T12:16:08.136Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="xPEC3hRIosUnjDpbToR0" version="13.10.4" type="github">
   <diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">
-    <mxGraphModel dx="1426" dy="1759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="1816" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="46" target="120" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="305" y="286" />
+              <mxPoint x="292" y="286" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="407" y="560" />
-              <mxPoint x="340" y="560" />
+              <mxPoint x="327" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -75,19 +75,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="115" value="授权通过" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF7200;strokeColor=#FF7200;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="337" y="469" width="140" height="60" as="geometry" />
+          <mxGeometry x="337" y="471" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="120" target="160" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="FgALovn5GCGV0UVQdTQo-188" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#FFFFFF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="120" target="160">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="680" />
+              <mxPoint x="325" y="680" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="120" value="4.向苹果请求&lt;br&gt;APNs Token" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00A4FF;strokeColor=#FFFFFF;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="270" y="600" width="140" height="70" as="geometry" />
+          <mxGeometry x="257" y="600" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="121" target="146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="121" value="7.注册设备，获取&lt;br&gt;TPNS Token" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00A4FF;strokeColor=#00A4FF;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="347" y="804" width="140" height="60" as="geometry" />
+          <mxGeometry x="347" y="812" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="123" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="361" y="538" width="24" height="24" as="geometry" />
@@ -103,7 +108,7 @@
           <mxGeometry x="421" y="600" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="129" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="435" y="536" width="24" height="24" as="geometry" />
+          <mxGeometry x="439" y="536" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="141" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="281" y="338" width="24" height="24" as="geometry" />
@@ -111,36 +116,36 @@
         <mxCell id="150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="146" target="148" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="407" y="954" />
-              <mxPoint x="287" y="954" />
+              <mxPoint x="407" y="962" />
+              <mxPoint x="291" y="962" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="146" target="149" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="407" y="954" />
-              <mxPoint x="527" y="954" />
+              <mxPoint x="407" y="962" />
+              <mxPoint x="527" y="962" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="146" value="是否注册成功" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF7200;strokeColor=#FF7200;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="337" y="884" width="140" height="60" as="geometry" />
+          <mxGeometry x="337" y="892" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="148" value="&lt;font style=&quot;font-size: 14px&quot;&gt;8.成功回调: &lt;br style=&quot;font-size: 14px&quot;&gt;得到TPNS Token,以及&lt;br&gt;APNs Token(如果获取成功)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#006EFF;strokeColor=#006EFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="202" y="1011" width="170" height="90" as="geometry" />
+          <mxGeometry x="206" y="1019" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="149" target="152" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="149" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;9.失败回调:&lt;br style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;得到错误码和error对象&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#006EFF;strokeColor=#006EFF;fontSize=14;horizontal=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="441" y="1011" width="170" height="90" as="geometry" />
+          <mxGeometry x="441" y="1019" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;arcSize=20;" parent="1" source="152" target="11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="152" value="10.下次打开App进程，再次发起注册" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#00A4FF;strokeColor=#00A4FF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="673" y="1026" width="120" height="60" as="geometry" />
+          <mxGeometry x="673" y="1034" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="155" value="&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;流程结束&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006EFF;strokeColor=#006EFF;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="164" y="16" width="120" height="60" as="geometry" />
@@ -149,51 +154,51 @@
           <mxGeometry x="298" y="21" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="158" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="307" y="934" width="24" height="24" as="geometry" />
+          <mxGeometry x="327" y="937" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="159" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="467" y="934" width="24" height="24" as="geometry" />
+          <mxGeometry x="463" y="937" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="149" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="170" y="784" />
-              <mxPoint x="170" y="1155" />
-              <mxPoint x="527" y="1155" />
+              <mxPoint x="170" y="792" />
+              <mxPoint x="170" y="1163" />
+              <mxPoint x="527" y="1163" />
             </Array>
-            <mxPoint x="337" y="784" as="sourcePoint" />
+            <mxPoint x="337" y="792" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="160" target="169" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="337" y="784" />
-              <mxPoint x="538" y="784" />
+              <mxPoint x="325" y="792" />
+              <mxPoint x="538" y="792" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="160" target="169" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="719" as="targetPoint" />
+            <mxPoint x="510" y="727" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="160" value="注册APNs成功" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF7200;strokeColor=#FF7200;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="267" y="689" width="140" height="60" as="geometry" />
+          <mxGeometry x="255" y="697" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="165" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="313" y="753" width="24" height="24" as="geometry" />
+          <mxGeometry x="305" y="761" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="168" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="443" y="695" width="24" height="24" as="geometry" />
+          <mxGeometry x="443" y="703" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="169" target="121" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="169" value="6.获取APNs Token&lt;br&gt;流程结束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00A4FF;strokeColor=#00A4FF;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="503" y="689" width="140" height="60" as="geometry" />
+          <mxGeometry x="503" y="697" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="185" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 14px&quot;&gt;备注&lt;/h1&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;1. 步骤8对应的回调方法为:&amp;nbsp;&amp;nbsp;xgPushDidReceiveRemoteNotification&lt;/p&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;2. 步骤9对应的回调方法为:&amp;nbsp; xgPushDidFailToRegisterDeviceTokenWithError&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#00CBDC;strokeColor=#00CBDC;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="164" y="1179" width="586" height="126" as="geometry" />
+          <mxGeometry x="164" y="1241" width="586" height="126" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

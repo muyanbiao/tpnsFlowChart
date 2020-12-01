@@ -1,1 +1,186 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T12:12:15.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.10.4" etag="1tANIXrfLax-2pGwcR-c" type="github"><diagram id="f5RVJCITGQP9nxhHiqeX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-01T12:16:36.630Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="haxsVr7B1VMZ_4Lcf46q" version="13.10.4" type="github">
+  <diagram id="f5RVJCITGQP9nxhHiqeX" name="Page-1">
+    <mxGraphModel dx="1186" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-1" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XPiCFtzpOs4I01tjiLDI-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="369" y="90" as="sourcePoint" />
+            <mxPoint x="369" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-2" value="&lt;font face=&quot;helvetica&quot;&gt;1.打开App&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="309" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XPiCFtzpOs4I01tjiLDI-4" target="XPiCFtzpOs4I01tjiLDI-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-4" value="&lt;font face=&quot;helvetica&quot;&gt;&lt;font color=&quot;#ea6b66&quot;&gt;2.调用startXGWithAccessID&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="309" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-5" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="379" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XPiCFtzpOs4I01tjiLDI-7" target="XPiCFtzpOs4I01tjiLDI-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-7" value="需要TPNS Push功能" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="299" y="110" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XPiCFtzpOs4I01tjiLDI-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="379" y="280" as="sourcePoint" />
+            <mxPoint x="369" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XPiCFtzpOs4I01tjiLDI-11" target="XPiCFtzpOs4I01tjiLDI-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.317;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XPiCFtzpOs4I01tjiLDI-11" target="XPiCFtzpOs4I01tjiLDI-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="277" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-11" value="是否安装App后首次调用" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="289" y="300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XPiCFtzpOs4I01tjiLDI-13" target="XPiCFtzpOs4I01tjiLDI-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-13" value="3.弹窗请求通知授权" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="309" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-14" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="379" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XPiCFtzpOs4I01tjiLDI-17" target="XPiCFtzpOs4I01tjiLDI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XPiCFtzpOs4I01tjiLDI-17" target="XPiCFtzpOs4I01tjiLDI-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-17" value="授权通过" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="299" y="490" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XPiCFtzpOs4I01tjiLDI-19" target="XPiCFtzpOs4I01tjiLDI-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-19" value="4.向苹果请求APNs Token" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="239" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XPiCFtzpOs4I01tjiLDI-21" target="XPiCFtzpOs4I01tjiLDI-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-21" value="7.注册设备，获取TPNS Token" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="309" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-22" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="309" y="550" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XPiCFtzpOs4I01tjiLDI-24" target="XPiCFtzpOs4I01tjiLDI-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-24" value="5.打印错误日志" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="379" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-25" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="389" y="550" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-26" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="269" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XPiCFtzpOs4I01tjiLDI-29" target="XPiCFtzpOs4I01tjiLDI-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="369" y="950" />
+              <mxPoint x="249" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XPiCFtzpOs4I01tjiLDI-29" target="XPiCFtzpOs4I01tjiLDI-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="369" y="950" />
+              <mxPoint x="489" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-29" value="是否注册成功" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="299" y="880" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-30" value="&lt;font color=&quot;#ea6b66&quot;&gt;8.成功回调: &lt;br&gt;得到TPNS Token,以及APNs Token(如果获取成功)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="189" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XPiCFtzpOs4I01tjiLDI-32" target="XPiCFtzpOs4I01tjiLDI-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-32" value="&lt;font color=&quot;#ea6b66&quot;&gt;9.失败回调:&lt;br&gt;&amp;nbsp;得到错误码和error对象&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="429" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XPiCFtzpOs4I01tjiLDI-34" target="XPiCFtzpOs4I01tjiLDI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-34" value="10.下次打开App进程，再次发起注册" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="579" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-35" value="&lt;font face=&quot;helvetica&quot;&gt;流程结束&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="129" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-36" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="259" y="110" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-37" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="269" y="930" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-38" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="429" y="930" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="XPiCFtzpOs4I01tjiLDI-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="189" y="780" />
+              <mxPoint x="132" y="780" />
+              <mxPoint x="132" y="1040" />
+              <mxPoint x="489" y="1040" />
+            </Array>
+            <mxPoint x="299" y="780" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XPiCFtzpOs4I01tjiLDI-42" target="XPiCFtzpOs4I01tjiLDI-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="299" y="780" />
+              <mxPoint x="512" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XPiCFtzpOs4I01tjiLDI-42" target="XPiCFtzpOs4I01tjiLDI-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="472" y="715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-42" value="注册APNs成功" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="229" y="685" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-43" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="266" y="752" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-44" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="334" y="680" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XPiCFtzpOs4I01tjiLDI-46" target="XPiCFtzpOs4I01tjiLDI-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-46" value="6.获取APNs Token流程结束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="482" y="685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPiCFtzpOs4I01tjiLDI-47" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;p&gt;1. 步骤8对应的回调方法为:&amp;nbsp;&amp;nbsp;xgPushDidReceiveRemoteNotification&lt;/p&gt;&lt;p&gt;2. 步骤9对应的回调方法为:&amp;nbsp; xgPushDidFailToRegisterDeviceTokenWithError&lt;/p&gt;" style="text;html=1;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#A1DE7E;" vertex="1" parent="1">
+          <mxGeometry x="129" y="1060" width="530" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

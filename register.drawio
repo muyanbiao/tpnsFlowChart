@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T12:23:40.895Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="F3d3YNa5YicZdaZ5VtJG" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T12:23:54.508Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="TlRvQqpZK5pzWp98szeu" version="13.10.4" type="github">
   <diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">
     <mxGraphModel dx="1426" dy="1816" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
         <mxCell id="148" value="&lt;font style=&quot;font-size: 14px&quot;&gt;8.成功回调: &lt;br style=&quot;font-size: 14px&quot;&gt;得到TPNS Token,以及&lt;br&gt;APNs Token(如果获取成功)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#006EFF;strokeColor=#006EFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="206" y="1045" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="149" target="152" edge="1">
+        <mxCell id="153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#878787;" parent="1" source="149" target="152" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="149" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;9.失败回调:&lt;br style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;得到错误码和error对象&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#006EFF;strokeColor=#006EFF;fontSize=14;horizontal=1;verticalAlign=middle;" parent="1" vertex="1">

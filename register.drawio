@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T09:19:42.562Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="_8cuVuOC7uPtxYzyw9Ch" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T09:20:52.427Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="BlyJJo9sQmW6SlOrlSw-" version="13.10.4" type="github">
   <diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">
     <mxGraphModel dx="1426" dy="1814" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -177,8 +177,8 @@
         <mxCell id="169" value="6.获取APNs Token流程结束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00A4FF;strokeColor=#00A4FF;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="520" y="683" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="185" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;p&gt;1. 步骤8对应的回调方法为:&amp;nbsp;&amp;nbsp;xgPushDidReceiveRemoteNotification&lt;/p&gt;&lt;p&gt;2. 步骤9对应的回调方法为:&amp;nbsp; xgPushDidFailToRegisterDeviceTokenWithError&lt;/p&gt;" style="text;html=1;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#A1DE7E;" parent="1" vertex="1">
-          <mxGeometry x="167" y="1058" width="530" height="120" as="geometry" />
+        <mxCell id="185" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;p&gt;1. 步骤8对应的回调方法为:&amp;nbsp;&amp;nbsp;xgPushDidReceiveRemoteNotification&lt;/p&gt;&lt;p&gt;2. 步骤9对应的回调方法为:&amp;nbsp; xgPushDidFailToRegisterDeviceTokenWithError&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#00CBDC;strokeColor=#00CBDC;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="160" y="1089" width="536" height="99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

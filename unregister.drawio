@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T03:30:45.556Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="AIrgnUg5Sdx4JPe5y1PF" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T09:50:25.249Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="COiuwyqy8ysU7e6wP2u-" version="13.10.5" type="github">
   <diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">
-    <mxGraphModel dx="1426" dy="716" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="1809" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#878787;strokeColor=#878787;" parent="1" source="6" edge="1" target="11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="130" as="sourcePoint" />
-            <mxPoint x="400" y="150" as="targetPoint" />
+            <mxPoint x="435" y="134" as="sourcePoint" />
+            <mxPoint x="435" y="154" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6" value="&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 14px&quot;&gt;1.用户正常使用App&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006EFF;strokeColor=#006EFF;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="324.99" y="34" width="150" height="60" as="geometry" />
+          <mxGeometry x="359.99" y="38" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="10" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;" parent="1" vertex="1">
-          <mxGeometry x="401" y="225" width="24" height="24" as="geometry" />
+          <mxGeometry x="436" y="229" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#878787;strokeColor=#878787;" parent="1" source="11" target="155" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -23,19 +23,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="11" value="需要关闭TPNS&lt;br style=&quot;font-size: 14px;&quot;&gt;Push功能" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF7200;strokeColor=#FF7200;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="325" y="130" width="150" height="90" as="geometry" />
+          <mxGeometry x="360" y="134" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="155" value="&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;流程结束&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006EFF;strokeColor=#006EFF;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="159" y="145" width="120" height="60" as="geometry" />
+          <mxGeometry x="194" y="149" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="157" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;" parent="1" vertex="1">
-          <mxGeometry x="295" y="151" width="24" height="24" as="geometry" />
+          <mxGeometry x="330" y="155" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#878787;strokeColor=#878787;" parent="1" source="173" target="179" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="173" value="&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;2.注销Push能力：&lt;br&gt;调用stopXGNotification&lt;/font&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00A4FF;strokeColor=#00A4FF;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="314.99" y="262" width="170" height="70" as="geometry" />
+          <mxGeometry x="349.99" y="266" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#878787;strokeColor=#878787;" parent="1" source="179" target="155" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -44,16 +44,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="179" value="需要开启TPNS&lt;br&gt;Push功能" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#FF7200;fillColor=#FF7200;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="324.99" y="365" width="150" height="80" as="geometry" />
+          <mxGeometry x="359.99" y="369" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="181" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;" parent="1" vertex="1">
-          <mxGeometry x="263" y="379" width="24" height="24" as="geometry" />
+          <mxGeometry x="298" y="383" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="182" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3.&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;调用startXGWithAccessID注册，&lt;br&gt;或者下次打开App进程发起注册&lt;/font&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00A4FF;strokeColor=#00A4FF;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="280" y="487" width="240" height="90" as="geometry" />
+          <mxGeometry x="315" y="491" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="185" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;" parent="1" vertex="1">
-          <mxGeometry x="401" y="449" width="24" height="24" as="geometry" />
+          <mxGeometry x="436" y="453" width="24" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

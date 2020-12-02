@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T02:46:30.328Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="u5551yhNewznnKjiJQXj" version="13.8.8" type="device"><diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">7Vlbc5s4FP41eqwHENdH8CW7M7udzLgzTR8VEIZdjCjIsb2/vhKSDDI4dlK76aZ1PBPpHF3POfrOJxnA6Xp3V6Mq+5skuACWkewAnAHLMm3LAvxrJHsh8UwoBKs6T2SjTrDM/8NSaEjpJk9wozWkhBQ0r3RhTMoSx1STobomW71ZSgp91gqt8ECwjFExlH7OE5oJqe8YnfwPnK8yNbNpSM0aqcZS0GQoIdueCM4BnNaEUFFa76a44MZTdhH9Fie0h4XVuKSXdHBEhydUbOTe5LroXm0Wl0nIbcZqcYGaJo8BjDK6LpjAZEW8y+kDKxsTR9a+9DQz7nRDVfaqUtJ63+vEq1/6uq5bW1P9htuTO27Ipo7lgl0hwonmRLn/O0zWmA3JGmw71ynPZT2vKVmNC0TzJ931SEbQ6jDcYYZ7krPFWYaMdtvwRJe9imFDH0IsXfbqu+rcQNbRQBTVK0wHA7FCb9udqI2E8ahwR6LCLZhdopS0S0qRNLb7dcNDNcpw8YRpHqNOxEor/t+cgLkHAhuEPpi7wPdB5PFCOAMhBHMHRD7/zm0QzUC0ODQOq0rNytYrJhYjDkK0JpsywYkMu22WU7ysxBK3DIH0eE3zopiSgtRtX5gg7Kc8pBtak39xT+PGPn5Mn4u6J1xTvHs2yKQW2rrzbOm7Xgwe/NkPQtc4HW+ag5/xpkLNvjuZ/QMfhIuBKdl+qG4v3S4lKfGREaUIFfmq5CDBrISZPOLWYRFRhFKxzpOETzPqoM6Fz57zyy1uG45+XPyhye0Rix+fqldZ3HGHMMrgaCmrpKYZWZESFfNOemSCrs1fhFTSF/9gSvcyH6INJSeQuIfDHSqfQWJTw+EOlr8HiU2VnFtkUrZxLsTni4H3Yrd43pu65WdJkKNu8eCbuUWd7T4+BSCYAnZk5wylWNIweaLwWa6Arcpj2ePT/ccl63W/abJWGYJgwZv7kCeSQYrIyPpx07w4PaQO/xtND+1H5sSeXHyulDYsf+KdSPv91OG4E9u+UfZwxjjiq9kAzzyR0zrU44zAj3ghikAA26Q0416Uwz/WXca/PRHAZuJgb8zTgetB5F7Ho6Z7gTtvxgQcb+SoOSAw+CF7t1TACs7b/GZUwIe/c04/v+hJJ3g7LgCvCmt61/gAHl1DiJH7yBLGoK81aUERthekgF9+fJnVVDKT6Y1B5QJEUxCEXBUZXKtuSw0l1cPdR0LzlC2Q5qQ8iZnfD67Gy9Nomlrx6C0rYUZxrgSux7esw9Xnh4CrumD8j0j/0Uk3r3PSg5+L9fv2bwQ+6RffejsEDi7k/ZGQCJ6y+DV4P5yoNwSJZXAMy1x34nu3grOxa9n754qecdbst+OK1jlO8iJiASdnOEBToVLzoxqBN/6QonVeMDOEgG/ORetKTAftIy6ka65LjsaYDqrpw93nnGZhHOOm+XM2wmk6RsUgggHJVHInXmgfoQO3BQ2Dvyrwt2dxFXVBOAWh2bYJ2juphB/+Gs2Xsmhp2OHqygZnErNVOfJh+2jeV9Aw4Zd3Q8PsH0vDRt4rfr3nbni7525W7X6gFL8udT/zwvk3</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-02T03:19:58.703Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="4okRIMVT2V7P3EWLV007" version="13.10.5" type="github">
+  <diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">
+    <mxGraphModel dx="1426" dy="716" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6" edge="1" target="11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="130" as="sourcePoint" />
+            <mxPoint x="400" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" value="&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 14px&quot;&gt;1.用户正常使用App&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006EFF;strokeColor=#006EFF;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="324.99" y="30" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="401" y="214" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="11" target="155" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="11" target="173" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="需要关闭TPNS&lt;br style=&quot;font-size: 14px;&quot;&gt;Push功能" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF7200;strokeColor=#FF7200;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="325" y="130" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="155" value="&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;流程结束&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006EFF;strokeColor=#006EFF;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="159" y="145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="157" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="295" y="151" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="173" target="179" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="173" value="&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;2.注销Push能力：&lt;br&gt;调用stopXGNotification&lt;/font&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00A4FF;strokeColor=#00A4FF;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="314.99" y="266" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="179" target="155" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="179" target="182" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="179" value="需要开启TPNS&lt;br&gt;Push功能" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#FF7200;fillColor=#FF7200;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="324.99" y="370" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="181" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="263" y="383" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="182" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3.&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;调用startXGWithAccessID注册，&lt;br&gt;或者下次打开App进程发起注册&lt;/font&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00A4FF;strokeColor=#00A4FF;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="275" y="491" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="185" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="401" y="454" width="24" height="24" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

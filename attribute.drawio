@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T09:21:06.838Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="1zPQcelLPUo1YQbvVK-e" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T09:21:23.625Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Xo83YJgxakF3fzjRk5X0" version="13.10.5" type="github">
   <diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">
     <mxGraphModel dx="1366" dy="679" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="jv47Ak5mTM9RfUMtk2Cb-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#FFFFFF;strokeColor=#878787;" edge="1" parent="1" source="159" target="160">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="159" value="&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;2.App获取要绑定的用户属性列表(例如“昵称”)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00A4FF;strokeColor=#00A4FF;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="159" value="&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 14px&quot;&gt;2.App获取要绑定的用户&lt;br&gt;属性列表(例如“昵称”)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00A4FF;strokeColor=#00A4FF;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="347" y="245" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;strokeColor=#878787;" parent="1" source="160" target="155" edge="1">

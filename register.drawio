@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T02:35:31.443Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="TheK-p-7W4T7Eo63MVyZ" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T02:36:43.889Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="YiN0q-d4phsRKeckpMdl" version="13.10.5" type="github">
   <diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">
     <mxGraphModel dx="854" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -159,22 +159,14 @@
         <mxCell id="159" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="463" y="1062" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#878787;" parent="1" target="149" edge="1">
+        <mxCell id="162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#878787;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="149" edge="1" source="160">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="170" y="898" />
+              <mxPoint x="170" y="833" />
               <mxPoint x="170" y="1244" />
-              <mxPoint x="527" y="1244" />
+              <mxPoint x="526" y="1244" />
             </Array>
             <mxPoint x="337" y="898" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#878787;" parent="1" source="160" target="169" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="325" y="898" />
-              <mxPoint x="538" y="898" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#878787;" parent="1" source="160" target="169" edge="1">
@@ -186,7 +178,7 @@
           <mxGeometry x="255" y="803" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="165" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="305" y="867" width="24" height="24" as="geometry" />
+          <mxGeometry x="205" y="809" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="168" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="432" y="809" width="24" height="24" as="geometry" />
@@ -198,7 +190,7 @@
           <mxGeometry x="503" y="803" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="185" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 14px&quot;&gt;备注&lt;/h1&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;1. 步骤8对应的回调方法为:&amp;nbsp;&amp;nbsp;xgPushDidReceiveRemoteNotification&lt;/p&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;2. 步骤9对应的回调方法为:&amp;nbsp; xgPushDidFailToRegisterDeviceTokenWithError&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#00CBDC;strokeColor=#00CBDC;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="169" y="1301" width="586" height="126" as="geometry" />
+          <mxGeometry x="169" y="1273" width="586" height="126" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

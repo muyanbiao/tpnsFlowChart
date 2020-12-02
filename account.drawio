@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T09:07:10.254Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="sTNbA7RamFao98Fw5y8m" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T09:13:12.811Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Y0pxH6gbskF7wBnwi8G3" version="13.10.5" type="github">
   <diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">
     <mxGraphModel dx="633" dy="1248" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
         <mxCell id="212" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="284" y="916" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="zawG__kP0czG144RKmIa-220" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 14px&quot;&gt;备注&lt;/h1&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;同一种账号类型只支持绑定一个账号&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#00CBDC;strokeColor=#00CBDC;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="zawG__kP0czG144RKmIa-220" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 14px&quot;&gt;&amp;nbsp; 备注&lt;/h1&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;&amp;nbsp; 同一种账号类型只支持绑定一个账号&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#00CBDC;strokeColor=#00CBDC;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="165" y="1140" width="510" height="95" as="geometry" />
         </mxCell>
       </root>

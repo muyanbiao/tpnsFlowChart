@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T02:38:56.998Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="UiX6WMTnkN06cm-8gHeO" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T02:39:26.526Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="-PMg06kuHu3fw9CeGS-O" version="13.10.5" type="github">
   <diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">
     <mxGraphModel dx="1426" dy="1816" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="244" value="8.下次打开App进程，&lt;br&gt;再次发起注册" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#00A4FF;strokeColor=#00A4FF;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="651" y="846" width="160" height="60" as="geometry" />
+          <mxGeometry x="644" y="846" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="245" value="&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;流程结束&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006EFF;strokeColor=#006EFF;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="160" y="94" width="120" height="60" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry x="347" y="615" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-nzgm7WKdkM6JQM_r52S-259" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 14px&quot;&gt;备注&lt;/h1&gt;&lt;p style=&quot;font-family: &amp;quot;helvetica&amp;quot; ; font-size: 14px&quot;&gt;1. 步骤6对应的回调方法为:&amp;nbsp;&amp;nbsp;XGIOperateCallback-&amp;gt;onSuccess&lt;/p&gt;&lt;p style=&quot;font-family: &amp;quot;helvetica&amp;quot; ; font-size: 14px&quot;&gt;2. 步骤7对应的回调方法为:&amp;nbsp; XGIOperrateCallback-&amp;gt;onFail&lt;/p&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;fillColor=#00CBDC;strokeColor=#00CBDC;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="145" y="934" width="540" height="127" as="geometry" />
+          <mxGeometry x="145" y="941" width="540" height="127" as="geometry" />
         </mxCell>
         <mxCell id="eIAg3NtYQfZgP2ZfOpcJ-259" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="245" y="567" width="24" height="24" as="geometry" />

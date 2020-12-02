@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T02:02:35.632Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="7wMdbEK3U5woyAgOaXTI" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T02:04:37.999Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="xQGgyqBbaXmvtpbyO-TK" version="13.10.5" type="github">
   <diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">
     <mxGraphModel dx="1426" dy="1816" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -23,10 +23,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="226" value="&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 14px;&quot;&gt;2.调用&lt;br style=&quot;font-size: 14px;&quot;&gt;registerPush&lt;/font&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#00A4FF;strokeColor=#00A4FF;" parent="1" vertex="1">
-          <mxGeometry x="357" y="214" width="120" height="60" as="geometry" />
+          <mxGeometry x="357" y="204" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="227" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="427" y="184" width="40" height="20" as="geometry" />
+          <mxGeometry x="419" y="171" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="229" target="245" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -34,12 +34,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="229" value="需要TPNS&lt;br&gt;Push功能" style="rhombus;whiteSpace=wrap;html=1;fontColor=#333333;fontSize=14;fillColor=#FF7200;strokeColor=#FF7200;" parent="1" vertex="1">
-          <mxGeometry x="337" y="84" width="160" height="70" as="geometry" />
+          <mxGeometry x="337" y="84" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="230" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="229" edge="1">
+        <mxCell id="230" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="229" edge="1" target="226">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="427" y="284" as="sourcePoint" />
-            <mxPoint x="417" y="214" as="targetPoint" />
+            <mxPoint x="417" y="204" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="233" target="236" edge="1">
@@ -94,10 +94,10 @@
           <mxGeometry x="640" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="245" value="&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;流程结束&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006EFF;strokeColor=#006EFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="160" y="89" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="94" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="246" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="292" y="100" width="40" height="20" as="geometry" />
+          <mxGeometry x="297" y="102" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="247" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="280" y="910" width="40" height="20" as="geometry" />
@@ -135,20 +135,20 @@
         <mxCell id="254" value="4.得到厂商Token" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fontSize=14;fillColor=#00A4FF;strokeColor=#00A4FF;" parent="1" vertex="1">
           <mxGeometry x="177" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="255" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="420" y="350" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="256" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="235" y="640" width="30" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="257" value="5.注册设备，获取TPNS Token" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fontSize=14;fillColor=#00A4FF;strokeColor=#00A4FF;" parent="1" vertex="1">
           <mxGeometry x="527" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="258" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="397" y="570" width="30" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="-nzgm7WKdkM6JQM_r52S-259" value="&lt;h1 style=&quot;font-size: 14px;&quot;&gt;备注&lt;/h1&gt;&lt;p style=&quot;font-family: helvetica; font-size: 14px;&quot;&gt;1. 步骤6对应的回调方法为:&amp;nbsp;&amp;nbsp;XGIOperateCallback-&amp;gt;onSuccess&lt;/p&gt;&lt;p style=&quot;font-family: helvetica; font-size: 14px;&quot;&gt;2. 步骤7对应的回调方法为:&amp;nbsp; XGIOperrateCallback-&amp;gt;onFail&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="182" y="1050" width="540" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eIAg3NtYQfZgP2ZfOpcJ-259" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="238" y="636" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eIAg3NtYQfZgP2ZfOpcJ-260" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="403" y="568" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eIAg3NtYQfZgP2ZfOpcJ-261" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="405" y="341" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

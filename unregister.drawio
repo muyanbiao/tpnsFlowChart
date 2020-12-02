@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T03:22:06.156Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="6tMp3T2EoticnENZsF7G" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T03:29:43.548Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="UTBJvfKfeWdKf0NALGp2" version="13.10.5" type="github">
   <diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">
     <mxGraphModel dx="1426" dy="716" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           <mxGeometry x="263" y="383" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="182" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3.&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;调用startXGWithAccessID注册，&lt;br&gt;或者下次打开App进程发起注册&lt;/font&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00A4FF;strokeColor=#00A4FF;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="275" y="491" width="250" height="90" as="geometry" />
+          <mxGeometry x="280" y="492" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="185" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="401" y="454" width="24" height="24" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T02:46:11.463Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="cvyXjOKN5xIW1_PftYs-" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T02:48:16.111Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="BMFUXA7W3vt3AMob9qok" version="13.10.5" type="github">
   <diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">
     <mxGraphModel dx="854" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="152" value="10.下次打开App进&lt;br&gt;程，再次发起注册" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#00A4FF;strokeColor=#00A4FF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="674" y="1107" width="140" height="60" as="geometry" />
+          <mxGeometry x="674" y="1077" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="155" value="&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;流程结束&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006EFF;strokeColor=#006EFF;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="166" y="128" width="120" height="60" as="geometry" />
@@ -148,8 +148,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="170" y="810" />
-              <mxPoint x="170" y="1244" />
-              <mxPoint x="526" y="1244" />
+              <mxPoint x="170" y="1193" />
+              <mxPoint x="526" y="1193" />
             </Array>
             <mxPoint x="337" y="898" as="sourcePoint" />
           </mxGeometry>

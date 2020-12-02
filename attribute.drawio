@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T09:07:54.798Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="QLY93w43JlDAhTD19yc7" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T09:08:11.249Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="M1fmAxNqV-ayZ0BRuYyV" version="13.10.5" type="github">
   <diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">
     <mxGraphModel dx="1639" dy="815" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -126,10 +126,10 @@
           <mxGeometry x="366" y="1081" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="210" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="438" y="1043" width="24" height="24" as="geometry" />
+          <mxGeometry x="437" y="1043" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="212" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="256" y="907" width="24" height="24" as="geometry" />
+          <mxGeometry x="302" y="931" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="Zi0HeuBh0QmhvPsaI_9m-220" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 14px&quot;&gt;备注&lt;/h1&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;text-align: center; font-size: 14px;&quot;&gt;支持的用户属性需要到 Web 管理台或者 RestAPI 先进行配置&lt;/span&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;fillColor=#00CBDC;strokeColor=#00CBDC;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="167" y="1161" width="540" height="102" as="geometry" />

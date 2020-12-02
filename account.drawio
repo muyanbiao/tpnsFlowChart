@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T07:54:50.228Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ePMlMRtjbDVM8oPVuN30" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T08:00:43.195Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="DZQR5kbZd9Xl6p_Jh8MA" version="13.10.5" type="github">
   <diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">
-    <mxGraphModel dx="1373" dy="782" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1639" dy="815" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="159" value="&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 14px&quot;&gt;2.App获取要绑定的账号&lt;br&gt;列表(例如登录&quot;微信&quot;账号)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00A4FF;strokeColor=#00A4FF;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="330" y="236" width="180" height="80" as="geometry" />
+          <mxGeometry x="330" y="235" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;fontSize=14;" parent="1" source="160" target="167" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -41,10 +41,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="160" value="是否获取成功" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF7200;strokeColor=#FF7200;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="335" y="344" width="170" height="85" as="geometry" />
+          <mxGeometry x="335" y="346" width="170" height="85" as="geometry" />
         </mxCell>
         <mxCell id="165" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="277" y="360" width="24" height="24" as="geometry" />
+          <mxGeometry x="239" y="363" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;fontSize=14;" parent="1" source="167" target="175" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -125,7 +125,7 @@
           <mxGeometry x="284" y="916" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="zawG__kP0czG144RKmIa-220" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 14px&quot;&gt;备注&lt;/h1&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;同一种账号类型只支持绑定一个账号&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#00CBDC;strokeColor=#00CBDC;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="155" y="1205" width="510" height="95" as="geometry" />
+          <mxGeometry x="154" y="1166" width="510" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

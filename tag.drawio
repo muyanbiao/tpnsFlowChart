@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T09:35:24.623Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="czRZzJzsYusdkkuP6Lcv" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T09:36:27.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="4WiEUoRpMx5DL5Xxe-ZL" version="13.10.5" type="github">
   <diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">
     <mxGraphModel dx="1366" dy="679" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -109,16 +109,16 @@
         <mxCell id="209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="206" target="207" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="206" target="178" edge="1">
+        <mxCell id="osoPOOX1DPih66SbFron-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=14;fontColor=#999999;" edge="1" parent="1" source="206" target="178">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="281" y="1003" />
-              <mxPoint x="281" y="901" />
+              <mxPoint x="301" y="1001" />
+              <mxPoint x="301" y="901" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="206" value="完全关闭标签&lt;br&gt;推送能力" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF7200;strokeColor=#FF7200;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="340" y="960" width="170" height="85" as="geometry" />
+          <mxGeometry x="340" y="958" width="170" height="85" as="geometry" />
         </mxCell>
         <mxCell id="207" value="&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;7.调用清空标签:clearTags&lt;/font&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006EFF;strokeColor=#006EFF;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="365" y="1083" width="120" height="60" as="geometry" />
@@ -127,7 +127,7 @@
           <mxGeometry x="426.5" y="1048" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="212" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;" parent="1" vertex="1">
-          <mxGeometry x="300" y="978" width="24" height="24" as="geometry" />
+          <mxGeometry x="309.5" y="975" width="24" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

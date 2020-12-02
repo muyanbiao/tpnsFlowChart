@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T06:38:31.181Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="XlkaVQIcbicix076pG5B" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T06:38:54.171Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="hMllWtE_ddn6A1Cr5egr" version="13.10.5" type="github">
   <diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">
     <mxGraphModel dx="1373" dy="816" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="239" value="是否注册成功" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FF7200;strokeColor=#FF7200;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="342" y="691" width="150" height="80" as="geometry" />
+          <mxGeometry x="342" y="692" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="240" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;6.成功回调: &lt;br style=&quot;font-size: 14px;&quot;&gt;得到TPNS Token&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#006EFF;strokeColor=#006EFF;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="223" y="835" width="160" height="80" as="geometry" />

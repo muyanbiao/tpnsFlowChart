@@ -1,17 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T03:37:05.421Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="0M5u809pgung824IXdao" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T03:39:40.277Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="GseGGiTyTxRAUn2qzdZo" version="13.10.5" type="github">
   <diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">
-    <mxGraphModel dx="1906" dy="940" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1639" dy="815" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;fontSize=14;" parent="1" source="6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="100" as="sourcePoint" />
-            <mxPoint x="420" y="120" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="oW4OHRRRrWkKbX1xS7YH-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="6" target="11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6" value="&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;1.注册设备成功&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006EFF;strokeColor=#006EFF;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="31" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="10" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="430" y="190" width="24" height="24" as="geometry" />
@@ -20,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="11" value="需要账号推送能力" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF7200;strokeColor=#FF7200;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="350" y="120" width="140" height="60" as="geometry" />
+          <mxGeometry x="340" y="120" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FFFFFF;fontSize=14;" parent="1" source="11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -43,8 +40,11 @@
         <mxCell id="168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;fontSize=14;" parent="1" source="160" target="167" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oW4OHRRRrWkKbX1xS7YH-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="160" target="155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="160" value="是否获取成功" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF7200;strokeColor=#FF7200;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="350" y="320" width="140" height="60" as="geometry" />
+          <mxGeometry x="340" y="310" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="165" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="310" y="320" width="24" height="24" as="geometry" />
@@ -55,8 +55,8 @@
         <mxCell id="176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;fontSize=14;" parent="1" source="167" target="175" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="167" value="历史绑定的账号需要关心推送" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF7200;strokeColor=#FF7200;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="315" y="420" width="210" height="60" as="geometry" />
+        <mxCell id="167" value="历史绑定的账号&lt;br&gt;需要关心推送" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF7200;strokeColor=#FF7200;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="340" y="414" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="169" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="430" y="390" width="24" height="24" as="geometry" />
@@ -126,15 +126,6 @@
         </mxCell>
         <mxCell id="212" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="270" y="790" width="24" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontColor=#FFFFFF;fontSize=14;" parent="1" source="160" target="155" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="225" y="190" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="225" y="350" />
-            </Array>
-            <mxPoint x="310" y="350" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="zawG__kP0czG144RKmIa-220" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 14px&quot;&gt;备注&lt;/h1&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;同一种账号类型只支持绑定一个账号&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#00CBDC;strokeColor=#00CBDC;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="160" y="990" width="510" height="95" as="geometry" />

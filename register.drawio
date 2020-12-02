@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T03:03:22.865Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="v7TZQNX2YyfjmEc_afDu" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T03:03:52.626Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Uhp4tPTVN_DVNVufR_zF" version="13.10.5" type="github">
   <diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">
     <mxGraphModel dx="1426" dy="716" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="121" value="7.注册设备，获取&lt;br&gt;TPNS Token" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00A4FF;strokeColor=#00A4FF;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="337" y="958" width="140" height="60" as="geometry" />
+          <mxGeometry x="337" y="955" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="123" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="383" y="622" width="24" height="24" as="geometry" />
@@ -87,7 +87,7 @@
         <mxCell id="tFj3YUiknB7TOpB_AM5G-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;strokeColor=#878787;" edge="1" parent="1" source="127" target="169">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="589" y="896" />
+              <mxPoint x="589" y="893" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -141,9 +141,9 @@
         <mxCell id="162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#878787;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="149" edge="1" source="160">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="170" y="797" />
-              <mxPoint x="170" y="1269" />
-              <mxPoint x="526" y="1269" />
+              <mxPoint x="172" y="797" />
+              <mxPoint x="172" y="1282" />
+              <mxPoint x="526" y="1282" />
             </Array>
             <mxPoint x="337" y="898" as="sourcePoint" />
             <mxPoint x="526" y="1244" as="targetPoint" />
@@ -165,7 +165,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="169" value="6.获取APNs Token&lt;br&gt;流程结束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00A4FF;strokeColor=#00A4FF;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="337" y="866" width="140" height="60" as="geometry" />
+          <mxGeometry x="337" y="863" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="185" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 14px&quot;&gt;备注&lt;/h1&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;1. 步骤8对应的回调方法为:&amp;nbsp;&amp;nbsp;xgPushDidReceiveRemoteNotification&lt;/p&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;2. 步骤9对应的回调方法为:&amp;nbsp; xgPushDidFailToRegisterDeviceTokenWithError&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#00CBDC;strokeColor=#00CBDC;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="166" y="1336" width="586" height="126" as="geometry" />

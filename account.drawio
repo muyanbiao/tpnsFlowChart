@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T09:20:51.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="u51UA6Py5A3JX_U4y5U6" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T10:55:35.613Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="vqdDziQW-bm8bKCfG068" version="13.10.5" type="github">
   <diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">
-    <mxGraphModel dx="633" dy="1248" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="965" dy="1508" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6" value="&lt;font face=&quot;helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;1.注册设备成功&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006EFF;strokeColor=#006EFF;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="360" y="21" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="26" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="10" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="421" y="200" width="24" height="24" as="geometry" />

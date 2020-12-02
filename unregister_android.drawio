@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T03:29:01.568Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="bmgWrC4tSw5jW1TOl48n" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T03:29:19.875Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ahVCB76vfSa8Ogqc_0-m" version="13.10.5" type="github">
   <diagram id="-N9uZjTop2ZxeEDGDAec" name="Page-1">
     <mxGraphModel dx="1426" dy="716" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="334" y="34" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="10" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;" parent="1" vertex="1">
-          <mxGeometry x="410" y="222" width="24" height="24" as="geometry" />
+          <mxGeometry x="410" y="217" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;strokeColor=#878787;" parent="1" source="11" target="155" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="271" y="373" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="182" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3.&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;调用registerPush注册，&lt;br&gt;或者下次打开App进程发起注册&lt;/font&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00A4FF;strokeColor=#00A4FF;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="299" y="497" width="220" height="90" as="geometry" />
+          <mxGeometry x="299" y="488" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="185" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="410" y="449" width="24" height="24" as="geometry" />

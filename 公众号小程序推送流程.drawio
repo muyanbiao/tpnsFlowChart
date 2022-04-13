@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T12:32:16.729Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="xV5LlYNi5Imf-Uz5i3JL" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T12:33:42.872Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="h7d3ZFE__LEQ5hWYn4Hg" version="17.4.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="786" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,14 +40,14 @@
         <mxCell id="oYlPoV4KyUNFNu96zUUu-3" value="微信服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oYlPoV4KyUNFNu96zUUu-11" value="&lt;div style=&quot;font-size: 11px ; text-align: justify&quot;&gt;1.群发消息&lt;/div&gt;&lt;div style=&quot;font-size: 11px ; text-align: justify&quot;&gt;2.模板消息&lt;/div&gt;&lt;div style=&quot;font-size: 11px ; text-align: justify&quot;&gt;3.一次性订阅消息&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="40" width="100" height="50" as="geometry" />
+        <mxCell id="oYlPoV4KyUNFNu96zUUu-11" value="&lt;div style=&quot;font-size: 11px ; text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="33" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oYlPoV4KyUNFNu96zUUu-14" value="公众号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="260" y="42" width="50" height="20" as="geometry" />
+        <mxCell id="oYlPoV4KyUNFNu96zUUu-14" value="公众号消息：&lt;br&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;1.群发消息&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;2.模板消息&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="190" y="23" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oYlPoV4KyUNFNu96zUUu-15" value="小程序" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="287" y="68" width="50" height="20" as="geometry" />
+        <mxCell id="oYlPoV4KyUNFNu96zUUu-15" value="小程序消息：&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;3.一次性订阅消息&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="190" y="70" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

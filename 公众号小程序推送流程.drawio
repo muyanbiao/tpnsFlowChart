@@ -1,17 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T12:25:30.478Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="iqQ6YS670gz51VkXO809" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T12:28:23.826Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="QZlTBO2ZNXvMpDvSOmCq" version="17.4.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="786" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oYlPoV4KyUNFNu96zUUu-4" value="&lt;div style=&quot;text-align: justify&quot;&gt;1.群发消息&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2.模板消息&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;3.一次性订阅消息&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;" edge="1" parent="1" source="oYlPoV4KyUNFNu96zUUu-1" target="oYlPoV4KyUNFNu96zUUu-2">
+        <mxCell id="oYlPoV4KyUNFNu96zUUu-4" value="&lt;div style=&quot;text-align: justify&quot;&gt;1.群发消息&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2.模板消息&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;3.一次性订阅消息&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#007FFF;" edge="1" parent="1" source="oYlPoV4KyUNFNu96zUUu-1" target="oYlPoV4KyUNFNu96zUUu-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oYlPoV4KyUNFNu96zUUu-1" value="客户服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="100" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="oYlPoV4KyUNFNu96zUUu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#007FFF;" edge="1" parent="1" source="oYlPoV4KyUNFNu96zUUu-2" target="oYlPoV4KyUNFNu96zUUu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oYlPoV4KyUNFNu96zUUu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#000000;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="oYlPoV4KyUNFNu96zUUu-2" target="oYlPoV4KyUNFNu96zUUu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oYlPoV4KyUNFNu96zUUu-10" value="message&lt;br&gt;response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oYlPoV4KyUNFNu96zUUu-8">
+          <mxGeometry x="0.0238" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oYlPoV4KyUNFNu96zUUu-2" value="TPNS服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oYlPoV4KyUNFNu96zUUu-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="oYlPoV4KyUNFNu96zUUu-3" target="oYlPoV4KyUNFNu96zUUu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oYlPoV4KyUNFNu96zUUu-9" value="message&lt;br&gt;response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oYlPoV4KyUNFNu96zUUu-7">
+          <mxGeometry x="0.0805" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oYlPoV4KyUNFNu96zUUu-3" value="微信服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="100" width="120" height="60" as="geometry" />
